@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/portfolio-service-dotnet.props" />
-</Project>
